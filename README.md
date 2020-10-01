@@ -303,6 +303,7 @@
 - ["How to create a GitHub profile README"](https://www.youtube.com/watch?v=vND_UY7xk24) - *Code With Confidence*
 - ["How To Create A GitHub Profile README"](https://www.youtube.com/watch?v=Y1z7_GfEPiE) - *Program With Erik*
 - ["Next Level GitHub Profile README"](https://youtu.be/ECuqb5Tv9qI) - *codeSTACKr*
+- ["Creating a GitHub Profile README"](https://towardsdatascience.com/explore-new-github-readme-feature-7d5cc21bf02f) - *Medium*
 
 ## Contribute
 
